@@ -514,6 +514,7 @@ PROJECTS
 
 .project__img {
   width: 100%;
+  transform: scale(1.02);
   transition: all 600ms ease;
 }
 
